@@ -1,0 +1,7 @@
+node_modules/
+*_sessions
+*qr.png
+*.log
+*.pdf
+google.json
+.env
